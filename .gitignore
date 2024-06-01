@@ -1,0 +1,18 @@
+
+
+# DS Store Mac file
+.DS_Store
+**/DS_Store
+*DS_Store
+
+
+# checkpoints
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# pycache
+__pycache__
+**/__pycache__
+*__pycache__
+
